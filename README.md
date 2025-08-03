@@ -39,6 +39,6 @@ What made this project especially rewarding was how polished and production-read
 - [Backend](https://github.com/zdenkokanos/Tournify-be)
 
 ### 📊 Preview
-You can watch the preview video [here](https://youtube.com/shorts/F_gXsmhP8Rc):
-[![Watch the video preview here](https://img.youtube.com/vi/F_gXsmhP8Rc/0.jpg)](https://www.youtube.com/watch?v=F_gXsmhP8Rc)
-Or feel free to clone, run and play with the code. 
+You can watch the preview video [here](https://youtube.com/shorts/F_gXsmhP8Rc): <br>
+[![Watch the video preview here](https://img.youtube.com/vi/F_gXsmhP8Rc/0.jpg)](https://www.youtube.com/watch?v=F_gXsmhP8Rc) <br>
+or feel free to clone, run and play with the code. 
